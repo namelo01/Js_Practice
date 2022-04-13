@@ -1,0 +1,32 @@
+/* html {
+    background-color:orange;
+}
+
+html body {
+    background-color:lightskyblue;
+} */
+
+/* html body {
+    background-color:lightgreen;
+} */
+/* 
+body {
+    background-color: pink;
+} */
+
+h1 span {
+  font-style: italic;
+  color: blue;
+}
+p span {
+  font-weight: 900;
+  color: red;
+}
+/* h1.profile {
+    color: red;
+}
+
+h1#name {
+    color: green;
+    background-color: yellow;
+} */
